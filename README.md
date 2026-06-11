@@ -121,8 +121,9 @@ Les évolutions possibles du projet incluent :
 ---
 
 ## Auteur
-
 Bah Mohamed Lamine
+
+
 ---
 
 ## Licence
